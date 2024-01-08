@@ -10,7 +10,7 @@ Converted the detailed schematic of the Arduino-based autonomous car into a boar
 Translated the circuit schematic into a compatible file for the LPKF S104 CNC mill, accurately milling the circuit pattern onto a copper-clad board. Oversaw the precise milling process, resulting in a custom PCB tailored for the Arduino car's electronics
 Performed meticulous soldering of all components onto the fabricated PCB for the Arduino-based autonomous car, ensuring secure connections and proper functionality. Utilized a multimeter to troubleshoot and verify connections, identifying and rectifying any faulty or inconsistent circuitry, ensuring the integrity and reliability of the assembled electronics
 
-![IMG_0477](https://github.com/zierenclark/ardcarPCB/assets/155485134/b0b0995a-9ef2-48ea-b674-12de88d7fa68)
+<img width="400" alt="image" src="https://github.com/zierenclark/ardcarPCB/assets/155485134/b0b0995a-9ef2-48ea-b674-12de88d7fa68">
 
 
 
